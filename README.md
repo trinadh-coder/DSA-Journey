@@ -30,6 +30,7 @@ My DSA problem-solving practice, organized by pattern, following the NeetCode 15
 ## Problems Solved
 
 | # | Problem | Difficulty | Pattern |
+|----|---------|-----------|---------|
 | 771 | jewels and stones | easy | Arrays&Hashing |
 
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
