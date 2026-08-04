@@ -1,6 +1,6 @@
 # DSA Practice
 
-My DSA problem-solving practice, organized by pattern, following the NeetCode 150 roadmap as part of my placement preparation.
+My DSA problem-solving practice, organized by pattern, following the LeetCode 150 roadmap as part of my placement preparation.
 
 **Language:** Python
 **Goal:** 150–180 problems covering all major patterns for interview readiness
