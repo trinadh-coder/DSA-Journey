@@ -29,10 +29,11 @@ My DSA problem-solving practice, organized by pattern, following the LeetCode 15
 
 ## Problems Solved
 
-| # | Problem | Difficulty | Pattern |
-|----|---------|-----------|---------|
-| 771 | jewels and stones | easy | Arrays&Hashing |
-
+| # | Problem | Difficulty |
+|----|---------|-----------|
+| 771 | jewels and stones | easy |
+| 1295 | find numbers with even number od digits | easy |
+| 7 | reverse integer | medium |
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
 
 ---
