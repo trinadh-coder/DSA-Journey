@@ -32,9 +32,10 @@ My DSA problem-solving practice, organized by pattern, following the LeetCode 15
 | # | Problem | Difficulty |
 |----|---------|-----------|
 | 771 | jewels and stones | easy |
-| 1295 | find numbers with even number od digits | easy |
+| 1295 | find numbers with even number of digits | easy |
 | 9 | palindrome number | easy |
 | 7 | reverse integer | medium |
+| 1979 | find the greatest common divisor of number | easy |
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
 
 ---
