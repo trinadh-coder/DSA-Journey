@@ -37,6 +37,7 @@ My DSA problem-solving practice, organized by pattern, following the LeetCode 15
 | 7 | reverse integer | medium |
 | 1979 | find the greatest common divisor of number | easy |
 | 121 | Best time to buy and sell stock| easy |
+| 172 | factorial trailing zeroes | medium |
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
 
 ---
