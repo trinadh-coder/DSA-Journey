@@ -39,7 +39,9 @@ My DSA problem-solving practice, organized by pattern, following the LeetCode 15
 | 121 | Best time to buy and sell stock| easy |
 | 172 | factorial trailing zeroes | medium |
 | 14 | longest common prefix | easy |
-| 13| $oman to integer | easy |
+| 13 | Roman to integer | easy |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | easy |
+| 26 | Remove duplicates from sorted array | easy |
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
 
 ---
