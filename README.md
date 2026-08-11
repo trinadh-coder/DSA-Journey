@@ -39,6 +39,7 @@ My DSA problem-solving practice, organized by pattern, following the LeetCode 15
 | 121 | Best time to buy and sell stock| easy |
 | 172 | factorial trailing zeroes | medium |
 | 14 | longest common prefix | easy |
+| 13| $oman to integer | easy |
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
 
 ---
