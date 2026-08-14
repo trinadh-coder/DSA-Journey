@@ -42,6 +42,7 @@ My DSA problem-solving practice, organized by pattern, following the LeetCode 15
 | 13 | Roman to integer | easy |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | easy |
 | 26 | Remove duplicates from sorted array | easy |
+| 36 | Combination sum | medium |
 *(Update this table every time you add a solution — keep it in sync with your commits.)*
 
 ---
